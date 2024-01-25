@@ -19,7 +19,7 @@ The issue is, well, mostly me. I have so many ideas and end up researching so mu
 
 I think what I run into a lot is a problem where I want to say something but either have a partly-thought-out idea, or something short that isn't worth the effort and overhead of writing up the way I wanted to share.
 
-Current setup (and the last couple of iterations) have been SSGs. It's great because I can host through [GitLab](https://gitlab.com/) or [GitHub](https://github.com/) and it's really fast. It's not-as-great in that I'm not as solid on setting up my environment to manage the site and the content. I've got it working, but not _working_ for me.
+Current setup (and the last couple of iterations) have been SSGs. It's great because I can host through [GitLab](https://gitlab.com/) or [GitHub](https://github.com/) (among other places) and it's really fast. It's not-as-great in that I'm not as solid on setting up my environment to manage the site and the content. I've got it working, but not _working_ for me.
 
 Maybe I'll look at publishing using [Obsidian](https://obsidian.md/) instead. It would tie into the setup I'm used to (including backlinks and Markdown formatting), and is almost what I'm using to write on a daily basis anyway.
 

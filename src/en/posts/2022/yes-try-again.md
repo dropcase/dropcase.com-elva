@@ -9,9 +9,9 @@ tags:
 layout: post.njk
 ---
 
-# Yes, I missed December. No, I won't retro-post something.
+## I missed December. No, I won't retro-post something.
 
-It's 2022, a year we didn't know would start like this. We're going on two full years of the official global pandemic. Covid has mutated a few times with Omicron as the latest (not to be confused with the planet-sized villain from `Transformers: the Movie`).
+It's 2022, a year we didn't know would start like this. We're going on two full years of the official global pandemic. Covid has mutated a few times with Omicron as the latest (not to be confused with `Unicron`, the planet-sized villain from [Transformers: the Movie](https://www.imdb.com/title/tt0092106/)).
 
 In talking to some people at work, I realized that I enjoy writing when I have something to say (which is often). The issue is that I don't make enough time to fully flesh out the ideas in my head, or I start to and shift focus to, well - anything else.
 

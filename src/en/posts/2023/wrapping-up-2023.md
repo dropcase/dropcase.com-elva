@@ -1,0 +1,13 @@
+---
+title: Wrapping up 2023
+date: 2023-12-26
+draft: true
+---
+
+This was a year of a lot of change, both for me personally as well as other areas of my life.
+
+First, it was the longest break from work that I've had since 2010. My company has since discontinued this, but I was able to take a "recharge" block of time - four weeks off. That ended up being the month of April and it was mostly a great experience. I was able to travel and see friends that I haven't seen in person since pre-Covid (although we see each other on video a lot, it's just not the same).
+
+I also helped house- and dog-sit, getting to have a space all to myself for a whole week. There were some other pieces to it, like having to head home to help out with kid logistics, but it wasn't a bad drive.
+
+There was a lot of learning about myself too, reframing my childhood and digging into some heavier stuff in therapy. I've also decided that I don't care if people know I'm in therapy, it's been over 11 years since I started and it's helped me immensely.
