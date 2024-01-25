@@ -106,11 +106,11 @@ To use [Front Matter CMS](https://frontmatter.codes/), install [VSCodium](https:
 ## Personalisation Checklist
 
 - [ ] At the top of `.eleventy.js` you'll see some dynamic settings for `url`, `isProduction` and `isStaging`. Make sure these environment variables are set in staging and production and tweak as necessary
-- [ ] Configure your sites settings in `/src/_data/settings.json` or in Front Matter CMS (under Data)
-- [ ] Add your chosen languages ([the demo site will soon guide you through this](https://elva.scott.ee/en/writing/adding-additional-languages/))
+- [x] Configure your sites settings in `/src/_data/settings.json` or in Front Matter CMS (under Data)
+- [x] Add your chosen languages ([the demo site will soon guide you through this](https://elva.scott.ee/en/writing/adding-additional-languages/))
 - [ ] Configure your sites navigation in `/src/_data/navigation.js`
 - [ ] Set your own default images, icons and favicon by replacing the images in `/src/assets/img/` 
-- [ ] Add your content — it's easiest to do this with Front Matter CMS which exposes [all front matter](https://elva.scott.ee/en/writing/frontmatter/) in the UI
+- [x] Add your content — it's easiest to do this with Front Matter CMS which exposes [all front matter](https://elva.scott.ee/en/writing/frontmatter/) in the UI
 - [ ] Setup a custom template for your open graph images (`.frontmatter/scripts/opengraph-template.html`)
 - [ ] Design your site by customising the CSS (`/src/assets/css/`), layouts (`/src/_layouts/`) and includes (`/src/_includes/`)
 
