@@ -3,6 +3,7 @@ title: And Another Thing!
 description: Or, I weigh my options
 date: 2022-02-27
 tags:
+  - post
   - perspective
   - alternatives
   - writing

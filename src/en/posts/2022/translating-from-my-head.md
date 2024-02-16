@@ -3,6 +3,7 @@ title: Translating from My Head
 description: It's not clear a lot of the time
 date: 2022-04-10
 tags:
+  - post
   - GitHub
   - writing
   - PKM

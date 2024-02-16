@@ -3,6 +3,7 @@ title: Yes, Try Again
 description: We'll see if this year turns out different.
 date: 2022-01-22
 tags:
+  - post
   - perspective
   - covid
   - hobbies
